@@ -2,3 +2,4 @@ qiu:
   springcloud:
     name: qiuyuesheng
     password: 2333
+    msg: sec
